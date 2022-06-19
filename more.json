@@ -1,0 +1,29 @@
+[
+   {
+      "id":1,
+      "icon":"https://raw.githubusercontent.com/amine994/moreapps/main/goblinslayer.png",
+      "installs":"28000",
+      "title":"Goblin Slayer Wallpaper 4K",
+      "cover":"https://raw.githubusercontent.com/amine994/moreapps/main/vinland%20saga_preview.jpg",
+      "rate":"5",
+	  "pkgname":"com.goblinslayer.wallpaper.anime"
+   },
+      {
+      "id":2,
+      "icon":"https://raw.githubusercontent.com/amine994/moreapps/main/spyxfamily.png",
+      "installs":"14000",
+      "title":"Spy X Family Wallpaper 4K",
+      "cover":"https://raw.githubusercontent.com/amine994/moreapps/main/vinland%20saga_preview.jpg",
+      "rate":"4.5",
+	  "pkgname":"com.spyxfamily.wallpaper.anime"
+   },
+      {
+      "id":3,
+      "icon":"https://raw.githubusercontent.com/amine994/moreapps/main/vinlandsaga.jpg",
+      "installs":"1000",
+      "title":"Vinland Saga Wallpaper 4K",
+      "cover":"https://raw.githubusercontent.com/amine994/moreapps/main/vinland%20saga_preview.jpg",
+      "rate":"5",
+	  "pkgname":"com.vinlandsaga.wallpaper.anime"
+   }
+]
